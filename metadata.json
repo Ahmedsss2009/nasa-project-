@@ -1,0 +1,5 @@
+{
+  "name": "Weather Comfort Predictor",
+  "description": "An AI-powered application that predicts the likelihood of specific uncomfortable weather conditions for a given location and date, providing a comfort score and activity recommendations.",
+  "requestFramePermissions": []
+}
